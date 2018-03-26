@@ -27,5 +27,5 @@ $(document).ready(function(){
 
 getIt();
 pressIt();
-  
+submitIt();
 });
