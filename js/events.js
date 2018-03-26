@@ -9,6 +9,8 @@ function frameIt() {
   //actions you want to happen
 });
 }
+
+
 $(document).ready(function(){
 
 getIt();
