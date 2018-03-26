@@ -12,8 +12,8 @@ function frameIt() {
 
 function pressIt (){
   $(document).on('keypress', function(key) {
-  if (key.which == 13){
-    alert('enter was pressed');
+  if (key.which ==71){
+    alert('G was pressed');
   }
 });
 }
@@ -21,6 +21,6 @@ function pressIt (){
 $(document).ready(function(){
 
 getIt();
-
+pressIt();
   
 });
